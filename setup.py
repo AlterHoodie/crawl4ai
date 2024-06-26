@@ -35,7 +35,7 @@ setup(
     name="Crawl4AI",
     version="0.2.71",
     description="🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
-    long_description=open("README.md").read(),
+    long_description=open("README.md").read(encoding="utf-8"),
     long_description_content_type="text/markdown",
     url="https://github.com/unclecode/crawl4ai",
     author="Unclecode",
